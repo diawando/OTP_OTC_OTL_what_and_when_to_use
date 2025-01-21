@@ -26,7 +26,7 @@ Cette méthode peut être utilisée dans les contextes suivants :
 ## OTP :
 L’OTP ou One Time Password est un mot de passe temporaire, valable pour une courte durée (quelques secondes à quelques minutes), et à usage unique, valable pour une seule session ou transaction.
 
-Généré automatiquement, il est généralement via des canaux sécurisés comme les SMS ou des applications d’authentification.
+Généré automatiquement, il est généralement envoyé via des canaux sécurisés comme les SMS ou des applications d’authentification.
 ### Cas d'utilisation:
 - **Connexion à des système sécurisés :** Certaines entreprises utilisent des OTP pour permettre à leurs personnels d’accéder à des systèmes internes.
 - **Authentification à double facteurs (2FA) :** Lors de la connexion à une application en ligne (Banque, Cloud public), après avoir entré vos identifiant et mot de passe principal, l’application vous envoie un OTP par SMS, par mail ou via une application d’authentification (comme Google Authenticator).
