@@ -24,7 +24,7 @@ Cette méthode peut être utilisée dans les contextes suivants :
 - Validation de transactions bancaires via un code OTP.
 
 ## OTP :
-L’OTP ou One Time Password est un mot de passe temporaire, valable pour une courte durée (quelques secondes à quelques minutes), et à usage unique, valable pour une seule session ou transaction généré.
+L’OTP ou One Time Password est un mot de passe temporaire, valable pour une courte durée (quelques secondes à quelques minutes), et à usage unique, valable pour une seule session ou transaction.
 
 Généré automatiquement, il est généralement via des canaux sécurisés comme les SMS ou des applications d’authentification.
 ### Cas d'utilisation:
