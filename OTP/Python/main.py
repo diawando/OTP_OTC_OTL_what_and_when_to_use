@@ -1,0 +1,1 @@
+From flask import Flask, request #importation des modules Flask et request
