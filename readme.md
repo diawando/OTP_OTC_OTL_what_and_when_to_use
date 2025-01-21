@@ -88,8 +88,7 @@ Pour finir voici un tableau comparatif de chacune des méthodes.
 | Coût associés | Frais lié à l’envoi de SMS | Moins coûteux, s’il est envoyé par email | Faible côut d’envoi, mais peut nécessiter un stockage sécurisé des liens |
 
 ## Conclusion 
-Les méthodes d’authentification par possession, telles que l’OTP, l’OTC et l’OTL, jouent un rôle crucial dans la sécurisation des accès aux plateformes numériques. Chacune de ces méthodes a ses propres caractéristiques et cas d’utilisation, ce qui les rend adaptées à des contextes spécifiques. L’OTP est idéal pour les authentifications à deux facteurs, l’OTC pour les vérifications ponctuelles, et l’OTL pour les actions nécessitant un clic unique. Le choix de la méthode dépend des besoins de sécurité, de l’expérience utilisateur et des contraintes techniques. Dans un monde où les cybermenaces sont de
-DIAWANDO DIAWARA 5
+Les méthodes d’authentification par possession, telles que l’OTP, l’OTC et l’OTL, jouent un rôle crucial dans la sécurisation des accès aux plateformes numériques. Chacune de ces méthodes a ses propres caractéristiques et cas d’utilisation, ce qui les rend adaptées à des contextes spécifiques. L’OTP est idéal pour les authentifications à deux facteurs, l’OTC pour les vérifications ponctuelles, et l’OTL pour les actions nécessitant un clic unique. Le choix de la méthode dépend des besoins de sécurité, de l’expérience utilisateur et des contraintes techniques. Dans un monde où les cybermenaces sont de en
 plus en plus sophistiquées, il essentiel de comprendre et d’utiliser ces outils de manière appropriée pour protéger les données et les systèmes.
 
 ## Bibliographie 
