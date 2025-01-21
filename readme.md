@@ -11,6 +11,7 @@ Face aux défis constants de garantir aux utilisateurs un accès sécurisé aux 
 - Et l'authentification par inhérence.
 
 Les cyberattaques comme le phishing, les attaques par force brute et le piratage de comptes représentent des menaces majeures pour la sécurité des utilisateurs. Afin de répondre à ces défis, des mécanismes d’authentification et de vérification robuste ont été développés pour protéger les accès aux plateformes numériques. Parmi ces mécanismes, les méthodes basées sur la possession (Authentification par possession) telles que l’OTP, l’OTC, et l’OTL se sont imposées comme solutions efficaces.
+
 Bien que ces trois acronymes soient souvent confondus, ils désignent des mécanismes d’authentification légèrement différents, chacun ayant ses propres caractéristiques et cas d’utilisations.
 Mais avant tout découvrons ensemble ce qu’est la méthode d’authentification par possession.
 
