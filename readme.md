@@ -2,6 +2,7 @@
 <p>
   <img src="https://img.shields.io/badge/Auteur-Diawando_DIAWARA-blue" />
 </p>
+
 ## Introduction :
 Face aux défis constants de garantir aux utilisateurs un accès sécurisé aux plateformes numériques et à leurs données, plusieurs méthodes d’accès sécurisé ont vu le jour. A savoir trois principales :
 
