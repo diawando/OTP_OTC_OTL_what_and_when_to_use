@@ -43,7 +43,8 @@ Il peut être envoyé via différents canaux SMS, Email.
 
 ### Cas d’utilisation :
 - Les OTC sont fréquemment utilisés pour vérifier l’identité ou confirmer une action sensible, souvent lors de la première connexion depuis un nouvel appareil ou pour la récupération de compte.
-- **Inscription à un service :** Lorsque vous créez un compte sur une plateforme, un OTC peut être envoyé pour vérifier votre adresse e-mail ou votre numéro de téléphone. Récupération de compte : Si vous oubliez votre mot de passe, un OTC peut être envoyé pour réinitialiser vos informations d’identification.
+- **Inscription à un service :** Lorsque vous créez un compte sur une plateforme, un OTC peut être envoyé pour vérifier votre adresse e-mail ou votre numéro de téléphone. 
+- **Récupération de compte :** Si vous oubliez votre mot de passe, un OTC peut être envoyé pour réinitialiser vos informations d’identification.
 - **Validation d’un coupon :** Un OTC peut être utilisé pour activer une offre spéciale ou un coupon de réduction.
 
 ### Avantages
