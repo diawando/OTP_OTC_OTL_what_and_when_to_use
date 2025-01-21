@@ -75,10 +75,24 @@ Il permet à un utilisateur d’accomplir une action spécifique (par exemple, s
 Pour finir voici un tableau comparatif de chacune des méthodes.
 
 | Aspect | OTP(One Time Password) | OTC(One Time Code) | OTL(One TIme Link) |
-
 |--------|------------------------|--------------------|--------------------|
-
 | Durée de la Validité | Court (généralement en quelques secondes/minutes) | Expire après utilisation ou un certain délai (selon le contexte) | Expire après utilisation ou un certain délai (selon le contexte) |
+| Cas d’utilisation | Authentification, Transactions | Vérification, récupération | Confirmation, accès unique |
+| Support | SMS, app d’authentification | SMS, e-mail | E-mail |
+| Sécurité | Forte (mais dépend du canal utilisé) | Forte (mais dépend du canal utilisé) | Moyenne (risque si email compromis) |
+|Mise en oeuvre | Modérément complexe, nécessite une infrastructure pour générer et envoyer des OTP | Simple, car il peut être intégré via des solutions existantes comme les API d’authentification par email ou SMS | Complexe, car il nécessite la gestion des URLS temporaires et des liens sécurisés |
+| Coût associés | Frais lié à l’envoi de SMS | Moins coûteux, s’il est envoyé par email | Faible côut d’envoi, mais peut nécessiter un stockage sécurisé des liens |
 
+## Conclusion 
+Les méthodes d’authentification par possession, telles que l’OTP, l’OTC et l’OTL, jouent un rôle crucial dans la sécurisation des accès aux plateformes numériques. Chacune de ces méthodes a ses propres caractéristiques et cas d’utilisation, ce qui les rend adaptées à des contextes spécifiques. L’OTP est idéal pour les authentifications à deux facteurs, l’OTC pour les vérifications ponctuelles, et l’OTL pour les actions nécessitant un clic unique. Le choix de la méthode dépend des besoins de sécurité, de l’expérience utilisateur et des contraintes techniques. Dans un monde où les cybermenaces sont de
+DIAWANDO DIAWARA 5
+plus en plus sophistiquées, il essentiel de comprendre et d’utiliser ces outils de manière appropriée pour protéger les données et les systèmes.
 
-###
+## Bibliographie 
+**Descope.com** [*(What Are Magic Links and How Do They Work ?)*](https://www.descope.com/learn/post/magic-links)
+
+**RFC 6238** [*(TOTP: Time-Based One-Time Password Algorithm)*](https://datatracker.ietf.org/doc/html/rfc6238)
+
+**RFC 4226** [*(HOTP: An HMAC-Based One-Time Password Algorithm)*](https://datatracker.ietf.org/doc/html/rfc4226)
+
+**Clerk.com** [*(Ultimate Guide to Magic Link Authentication)*](https://clerk.com/blog/magic-links)
