@@ -1,4 +1,7 @@
 # OTP OTC OTL - Quoi et quand les utiliser ?
+<p>
+  <img src="https://img.shields.io/badge/Auteur-Diawando_DIAWARA-blue" />
+</p>
 
 ## Introduction :
 Face aux défis constants de garantir aux utilisateurs un accès sécurisé aux plateformes numériques et à leurs données, plusieurs méthodes d’accès sécurisé ont vu le jour. A savoir trois principales :
@@ -8,6 +11,7 @@ Face aux défis constants de garantir aux utilisateurs un accès sécurisé aux 
 - Et l'authentification par inhérence.
 
 Les cyberattaques comme le phishing, les attaques par force brute et le piratage de comptes représentent des menaces majeures pour la sécurité des utilisateurs. Afin de répondre à ces défis, des mécanismes d’authentification et de vérification robuste ont été développés pour protéger les accès aux plateformes numériques. Parmi ces mécanismes, les méthodes basées sur la possession (Authentification par possession) telles que l’OTP, l’OTC, et l’OTL se sont imposées comme solutions efficaces.
+
 Bien que ces trois acronymes soient souvent confondus, ils désignent des mécanismes d’authentification légèrement différents, chacun ayant ses propres caractéristiques et cas d’utilisations.
 Mais avant tout découvrons ensemble ce qu’est la méthode d’authentification par possession.
 
@@ -20,9 +24,9 @@ Cette méthode peut être utilisée dans les contextes suivants :
 - Validation de transactions bancaires via un code OTP.
 
 ## OTP :
-L’OTP ou One Time Password est un mot de passe temporaire, valable pour une courte durée (quelques secondes à quelques minutes), et à usage unique, valable pour une seule session ou transaction généré.
+L’OTP ou One Time Password est un mot de passe temporaire, valable pour une courte durée (quelques secondes à quelques minutes), et à usage unique, valable pour une seule session ou transaction.
 
-Généré automatiquement, il est généralement via des canaux sécurisés comme les SMS ou des applications d’authentification.
+Généré automatiquement, il est généralement envoyé via des canaux sécurisés comme les SMS ou des applications d’authentification.
 ### Cas d'utilisation:
 - **Connexion à des système sécurisés :** Certaines entreprises utilisent des OTP pour permettre à leurs personnels d’accéder à des systèmes internes.
 - **Authentification à double facteurs (2FA) :** Lors de la connexion à une application en ligne (Banque, Cloud public), après avoir entré vos identifiant et mot de passe principal, l’application vous envoie un OTP par SMS, par mail ou via une application d’authentification (comme Google Authenticator).
@@ -85,8 +89,7 @@ Pour finir voici un tableau comparatif de chacune des méthodes.
 | Coût associés | Frais lié à l’envoi de SMS | Moins coûteux, s’il est envoyé par email | Faible côut d’envoi, mais peut nécessiter un stockage sécurisé des liens |
 
 ## Conclusion 
-Les méthodes d’authentification par possession, telles que l’OTP, l’OTC et l’OTL, jouent un rôle crucial dans la sécurisation des accès aux plateformes numériques. Chacune de ces méthodes a ses propres caractéristiques et cas d’utilisation, ce qui les rend adaptées à des contextes spécifiques. L’OTP est idéal pour les authentifications à deux facteurs, l’OTC pour les vérifications ponctuelles, et l’OTL pour les actions nécessitant un clic unique. Le choix de la méthode dépend des besoins de sécurité, de l’expérience utilisateur et des contraintes techniques. Dans un monde où les cybermenaces sont de
-DIAWANDO DIAWARA 5
+Les méthodes d’authentification par possession, telles que l’OTP, l’OTC et l’OTL, jouent un rôle crucial dans la sécurisation des accès aux plateformes numériques. Chacune de ces méthodes a ses propres caractéristiques et cas d’utilisation, ce qui les rend adaptées à des contextes spécifiques. L’OTP est idéal pour les authentifications à deux facteurs, l’OTC pour les vérifications ponctuelles, et l’OTL pour les actions nécessitant un clic unique. Le choix de la méthode dépend des besoins de sécurité, de l’expérience utilisateur et des contraintes techniques. Dans un monde où les cybermenaces sont de en
 plus en plus sophistiquées, il essentiel de comprendre et d’utiliser ces outils de manière appropriée pour protéger les données et les systèmes.
 
 ## Bibliographie 
